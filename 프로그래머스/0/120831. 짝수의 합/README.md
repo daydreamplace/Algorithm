@@ -1,10 +1,10 @@
 # [level 0] 짝수의 합 - 120831 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120831) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120831?language=swift) 
 
 ### 성능 요약
 
-메모리: 16.3 MB, 시간: 0.02 ms
+메모리: 16.5 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 11월 01일 09:53:14
+2025년 03월 17일 00:26:13
 
 ### 문제 설명
 
