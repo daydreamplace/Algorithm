@@ -1,10 +1,10 @@
 # [level 0] 특정 문자 제거하기 - 120826 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120826) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120826?language=swift) 
 
 ### 성능 요약
 
-메모리: 16.6 MB, 시간: 0.24 ms
+메모리: 16.4 MB, 시간: 0.10 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 07일 18:52:37
+2025년 03월 18일 12:19:08
 
 ### 문제 설명
 
